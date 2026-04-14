@@ -67,7 +67,8 @@ Key Insights
 
 Dashboard Preview
 
-![Dashboard](images/dashboard_overview.png)
+<img width="1919" height="1012" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/fb4c1ce0-4ac8-4363-8f81-dbfbe998284b" />
+
 
 
 Conclusion
